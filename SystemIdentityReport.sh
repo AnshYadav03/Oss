@@ -1,12 +1,12 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Aniket Gawai
-# Registration: 24BCE11368
+# Author: Ansh Yadav
+# Registration: 24BAI10898
 # Course: Open Source Software
 # Description: Generates a welcome screen detailing the system identity.
 
 # --- Variables ---
-STUDENT_NAME="Aniket Gawai"
+STUDENT_NAME="Ansh Yadav"
 SOFTWARE_CHOICE="Git"
 
 # System info using command substitution $()
