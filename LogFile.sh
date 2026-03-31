@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Aniket Gawai
-# Registration: 24BCE11368
+# Author: Ansh Yadav
+# Registration: 24BAI10898
 
 # Course: Open Source Software
 # Description: Reads a log file line by line, counts keyword
